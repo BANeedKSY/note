@@ -39,7 +39,7 @@
 
 ## 詳細な物語と経緯（Substack）
 本リポジトリにある「証拠」の行間にある真実、および最新の戦況については、以下の「庵（Substack）」にて連載しております。
-👉 [**[https://baneedksy.substack.com/p/note5243]**]()
+👉 [https://baneedksy.substack.com/p/note5243]
 
 ---
 
