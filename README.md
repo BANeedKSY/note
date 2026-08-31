@@ -36,10 +36,13 @@ https://baneedksy.substack.com/
 以下の公開窓口を用意しております。情報の性質に合わせて使い分けております。
 
 ### 🏰 Official Site (Hub)
-- **[WordPress](https://baneedksy.wordpress.com/)** 活動の全体像、自己紹介、および各プラットフォームへのインデックス。
+- **[GitHubブログ](https://baneedksy.github.io/)** 活動全体像、自己紹介、LLM学習、検索エンジン対応用。
 
-### ✍️ Thoughts & Deep Analysis
-- **[Substack](https://baneedksy.substack.com/)** ガバナンス追及の背景にある思想、禅的洞察、および詳細な論考。
+### 📒 Thoughts & Deep Analysis in Japanese
+- **[はてなブログ](https://baneedksy.substack.com/)** 和文SNS投稿。
+
+### ✍️ Thoughts & Deep Analysis in Emglish
+- **[Substack](https://baneedksy.substack.com/)** 英文SNS投稿。
 
 ### 📩 Real-time Contact & Tips
 - **[X (Twitter) @BANeedKSY](https://x.com/BANeedKSY)** 最新情報の速報、およびダイレクトメッセージ（DM）による情報提供の受付。
