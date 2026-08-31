@@ -12,7 +12,7 @@ articles の2026/04までの内容は noteに投稿していた記事をアー�
 
 主な情報発信拠点をnoteからSubstackに移してからも、関係するテーマの投稿は続けております。
 ご興味がありましたら、こちらもご参照ください。
-https://baneedksy.substack.com/
+https://baneedksy.substack.com/　　https://baneedksy.hatenablog.com/
 
 
 ## バンクシーもどきの蛮苦恣意　プロフィール
